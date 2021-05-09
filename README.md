@@ -6,5 +6,5 @@ I use this profile to store projects I work on in my free time. Feel free to pok
 
 Check out some of my repositories:
 - `Hospital-Index` is a visualization of Medicare FFS inpatient claims at hospitals in the US based on publicly-available fiscal year 2015 data from CMS. I used this data to plot hospital volume and calculated a case-mix index based on standard DRG payment rates by region.
-- `Baseball-Ratings` is a hobby project of mine that calculates Elo-like ratings for MLB teams for the past decade using the Retrosheet database. It has some fun visualizations of team performance fromm year-to-year (or maybe not so fun if you're also a fan of the Seattle Mariners).
+- `Baseball-Ratings` is a hobby project of mine that calculates Elo-like ratings for MLB teams for the past decade using the Retrosheet database. It has some fun visualizations of team performance from year-to-year (or maybe not so fun if you're also a fan of the Seattle Mariners).
 - `Parallel-Processor` is a Python script I wrote several years ago for queueing many tasks across different machines connected on a local network. I mainly wrote it to practice using Python's networking features but it can be quite useful for setting up distributed computing tasks .
