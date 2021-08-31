@@ -1,6 +1,6 @@
 ### Hi, I'm Lukas!
 
-I'm a data analyst and progammer who has worked in the healthcare industry in the US for the past 7 years. I mainly work in `Python`, `R`, `SQL`, and `SAS`, and I am always trying to learn new coding languages and data analysis techniques.
+I'm a data analyst and progammer who has worked in the healthcare industry in the US for the past 7 years. I mainly work in `Python`, `R`, `SQL`, and `SAS`, and I am always trying to learn new coding languages and data analysis techniques. I am interested in the applications of mathematical modeling and statistics to biological and medical research.
 
 I use this profile to store projects I work on in my free time. The README for each package contains project overviews as well as examples and illustrations. 
 
